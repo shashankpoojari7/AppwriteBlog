@@ -14,7 +14,7 @@ import Post from "./pages/Post";
 import AllPosts from "./pages/AllPosts";
 
 const router = createBrowserRouter([
-  {
+{
     path: "/",
     element: <App />,
     children: [
